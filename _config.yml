@@ -1,0 +1,67 @@
+# Site settings
+title: Mychal Wilson
+email: mychal.wilson@gmail.com
+url: https://github.com/pardomatas
+description: "Mychal Wilson: Full-Stack Software Engineer"
+skills: "Full-Stack Software Engineer"
+meta_author: Mychal Wilson
+keywords: "Full-Stack, Software, Engineer, freelance, HTML, CSS, Git, RTC, 
+  Spring, Django, Angular, React, Nodejs, JQuery, Bootstrap, Jekyll, Hibernate, 
+  Maven, JUnit, Mockito, JMockit, XML, JSON, JSP, Oracle Database, Eclipse, Intellij, 
+  Eclipse, RESTful Web Services, Cloud Computing, Amazon Web Services, Java, C, C++, 
+  C#, Groovy, SQL, Python, JavaScript, TypeScript, Oracle Certified Professional, 
+  Java SE 8 Programmer, Windows, Linux, OSX, Android, iOS, Ubuntu, Mint, Debian"
+
+# Google webmaster tools
+google_verify:
+
+# Bing webmaster tools
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# disqus shortname
+disqus_shortname: 
+
+# Color settings
+color:
+  primary: 7395ae #18bc9c
+  primary-rgb: 379683 #"24,288,156"
+  secondary: 5d5c61 #2c3e50
+  secondary-dark: 444347 #233140
+
+# Footer settings
+footer:
+  copyright: Mychal Wilson
+  location: Current Location
+  social: Around the Web
+  credits: Freelance
+
+# Social networks
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/mychal-wilson-474b1277/
+  - title: github
+    url: https://github.com/pardomatas
+  # - title: bitbucket
+  #   url: 
+  # - title: gitlab
+  #   url: 
+  
+# Postal address
+address:
+  - line: Charleston, SC
+  - line:
+
+# Credits content
+credits: "If you would like to hire me for freelance work, please do not hesitate to contact me."
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# TODO

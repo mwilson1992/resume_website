@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 2
+category: work
+date: 2018-06-05
+img: golf.jpg
+alt: Gene Westmoreland Golf Services
+company: Gene Westmoreland Golf Services
+position: Technical Support & Other Technical Services
+project: 
+project-date: Sept 2012 – Dec 2014
+location: Bronxville, New York
+description:    
+    • Provided any type of technical support, troubleshooting, routine maintenance and emergency services. <br />
+    • Managed and synchronized work scheduling calendars and setup workstations, work phones and other devices. 
+---
