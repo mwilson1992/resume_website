@@ -1,5 +1,5 @@
 # Site settings
-include: [CNAME]
+keep_files: [CNAME]
 title: Mychal Wilson
 email: mychal.wilson@gmail.com
 url: https://github.com/pardomatas
@@ -67,3 +67,4 @@ permalink: pretty
 
 # TODO
 # split booz into section per team
+# minify code
