@@ -1,4 +1,5 @@
 # Site settings
+include: [CNAME]
 title: Mychal Wilson
 email: mychal.wilson@gmail.com
 url: https://github.com/pardomatas
