@@ -1,5 +1,6 @@
 # Site settings
 keep_files: [CNAME]
+destination: ../_site
 title: Mychal Wilson
 email: mychal.wilson@gmail.com
 url: https://github.com/pardomatas
