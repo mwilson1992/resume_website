@@ -1,5 +1,5 @@
 # Site settings
-keep_files: [CNAME]
+keep_files: [CNAME, .git]
 destination: ../_site
 title: Mychal Wilson
 email: mychal.wilson@gmail.com
