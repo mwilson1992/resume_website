@@ -65,6 +65,10 @@ markdown: kramdown
 permalink: pretty
 keep_files: [CNAME, .git]
 destination: ../_site
+plugins:
+  - jekyll-minifier
+jekyll-minifier:
+  exclude: 'js/classie.js' # throwing null pointer when minified
 
 # TODO
 # split booz into section per team
