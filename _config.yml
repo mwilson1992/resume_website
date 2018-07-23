@@ -1,6 +1,4 @@
 # Site settings
-keep_files: [CNAME, .git]
-destination: ../_site
 title: Mychal Wilson
 email: mychal.wilson@gmail.com
 url: https://github.com/pardomatas
@@ -65,7 +63,8 @@ credits: "If you would like to hire me for freelance work, please do not hesitat
 # Build settings
 markdown: kramdown
 permalink: pretty
+keep_files: [CNAME, .git]
+destination: ../_site
 
 # TODO
 # split booz into section per team
-# minify code
