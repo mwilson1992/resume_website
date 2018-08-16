@@ -1,0 +1,20 @@
+---
+layout: default
+modal-id: 4
+category: work
+date: 2018-05-29
+img: booz.jpg
+alt: Booz Allen Hamilton
+company: Booz Allen Hamilton
+position: Software Engineer on eFolder Team
+project: Senior Consultant for Veteran Affairs
+project-date: June 2015 - Current
+location: Charleston, South Carolina
+description:     
+    • Main Tech Stack&#58; Oracle DB, Amazon S3, IBM FileNet, Spring, Java, Groovy, JSP, JavaScript. <br />
+    • Saved the VA thousands of dollars by migrating and integrating the app to cloud based services. <br />
+    • Added line of business automatic filters based on the users job type. <br />
+    • Added functionality to send documents to an external microservice. <br />
+    • Improved and optimized many sections of the application. <br />
+    • Greatly reduced the number of defects filed against this part of the application. <br />
+---

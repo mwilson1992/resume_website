@@ -1,21 +1,19 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 category: work
 date: 2018-05-29
 img: booz.jpg
 alt: Booz Allen Hamilton
 company: Booz Allen Hamilton
-position: Software Engineer
-project: Senior Consultant for Veteran Affairs
+position: Software Engineer on National Work Queue Team
+project: Consultant for Veteran Affairs
 project-date: June 2015 - Current
 location: Charleston, South Carolina
 description:     
-    • Non-Disclosure Agreement Signed. <br />
-    • Saved the VA thousands of dollars by migrating to cloud based services. <br />
+    • Main Tech Stack&#58; Oracle DB, Spring, Java, JavaScript, Angular. <br />
+    • Created development tool to calculate where a specific claim would route based on business criteria. <br />
     • Added many different features to the application. <br />
-    • Made a number of different development tools to help with the development process. <br />
-    • Greatly reduced the number of defects filed against multiple parts of the application. <br />
-    • Improved and optimized sections of the application on three different development teams to improve performance. <br />
-    • Promoted to Senior Consultant. <br />
+    • Added special mission routing for unique claims. <br />
+    • Fixed many defects filed against this part of the application. <br />
 ---

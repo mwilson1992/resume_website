@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="row">
-                {% assign sorted = (site.posts | sort: 'modal-id') %}
+                {% assign sorted = (site.posts | sort: 'modal-id' | reverse) %}
                 {% for post in sorted %}
                     <!-- <div class="col-sm-4 portfolio-item"> -->
                     <div class="col-md-6 portfolio-item">

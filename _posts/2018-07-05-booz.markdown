@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 3
+category: work
+date: 2018-05-29
+img: booz.jpg
+alt: Booz Allen Hamilton
+company: Booz Allen Hamilton
+position: Software Engineer on Notifications Team
+project: Consultant for Veteran Affairs
+project-date: June 2015 - Current
+location: Charleston, South Carolina
+description:     
+    • Main Tech Stack&#58; Oracle DB, Spring, Java, JSP, JavaScript. <br />
+    • Created notification system to alert many different parts of the application about relevant info about newly uploaded documentation. <br />
+    • Created development tool to mimic the upload of a new document from many external vendors. <br />
+---

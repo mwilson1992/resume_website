@@ -71,4 +71,6 @@ jekyll-minifier:
   exclude: 'js/classie.js' # throwing null pointer when minified
 
 # TODO
-# split booz into section per team
+# add new pictures
+# update resume pdf
+# simplify contact form
