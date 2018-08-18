@@ -64,11 +64,9 @@ credits: "If you would like to hire me for freelance work, please do not hesitat
 markdown: kramdown
 permalink: pretty
 keep_files: [CNAME, .git]
+exclude: [img/unused]
 destination: ../_site
 plugins:
   - jekyll-minifier
 jekyll-minifier:
   exclude: 'js/classie.js' # throwing null pointer when minified
-
-# TODO
-# add new pictures

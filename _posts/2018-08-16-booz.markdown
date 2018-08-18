@@ -3,11 +3,11 @@ layout: default
 modal-id: 4
 category: work
 date: 2018-05-29
-img: booz.jpg
+img: booz3.png
 alt: Booz Allen Hamilton
 company: Booz Allen Hamilton
-position: Software Engineer on eFolder Team
-project: Senior Consultant for Veteran Affairs
+position: Senior Consultant/Software Engineer on eFolder Team
+project: Veterans Benefits Management System
 project-date: June 2015 - Current
 location: Charleston, South Carolina
 description:     

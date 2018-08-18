@@ -6,8 +6,8 @@ date: 2018-05-29
 img: booz.jpg
 alt: Booz Allen Hamilton
 company: Booz Allen Hamilton
-position: Software Engineer on National Work Queue Team
-project: Consultant for Veteran Affairs
+position: Consultant/Software Engineer on National Work Queue Team
+project: Veterans Benefits Management System
 project-date: June 2015 - Current
 location: Charleston, South Carolina
 description:     

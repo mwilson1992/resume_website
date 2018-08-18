@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 category: work
 date: 2018-06-05
-img: golf.jpg
+img: golf.png
 alt: Gene Westmoreland Golf Services
 company: Gene Westmore&shy;land Golf Services
 position: Technical Support & Other Technical Services
