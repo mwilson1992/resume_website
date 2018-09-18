@@ -13,6 +13,7 @@ location: Charleston, South Carolina
 description:     
     • Main Tech Stack&#58; Oracle DB, Amazon S3, IBM FileNet, Spring, Java, Groovy, JSP, JavaScript. <br />
     • Saved the VA thousands of dollars by migrating and integrating the app to cloud based services. <br />
+    • Created the document annotation platform to add stamps, highlights and other annotations to documents for easy identification. <br />
     • Added line of business automatic filters based on the users job type. <br />
     • Added functionality to send documents to an external microservice. <br />
     • Improved and optimized many sections of the application. <br />

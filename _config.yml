@@ -70,3 +70,7 @@ plugins:
   - jekyll-minifier
 jekyll-minifier:
   exclude: 'js/classie.js' # throwing null pointer when minified
+
+# TODO
+# add ANNOTATOR
+# update resume file
