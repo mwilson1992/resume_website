@@ -1,17 +1,18 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 3
 category: work
-date: 2018-05-29
-img: booz3.png
+date: 2018-08-16
+img: booz.jpg
 alt: Booz Allen Hamilton
 company: Booz Allen Hamilton
 position: Senior Consultant/Software Engineer on eFolder Team
 project: Veterans Benefits Management System
-project-date: April 2017 – Current
+project-date: April 2017 – November 2019
 location: Charleston, South Carolina
 description:     
     • Main Tech Stack&#58; Oracle DB, Amazon S3, IBM FileNet, Spring, Java, Groovy, JSP, JavaScript. <br />
+    • Created front end react microservice kit with spring boot to distribute to customers so they can easily use the front-end app or create their own front-end app that uses the API in the kit to communicate with our services. <br />
     • Saved the VA $60 million a year by migrating 700TB of data, billions of documents, and integrating the app to cloud based services. <br />
     • Created the document annotation platform to add stamps, highlights and other annotations to documents for easy identification. <br />
     • Added line of business automatic filters based on the users job type. <br />

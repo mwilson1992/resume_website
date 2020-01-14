@@ -1,9 +1,9 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 category: work
-date: 2018-05-29
-img: booz.jpg
+date: 2018-05-05
+img: booz3.png
 alt: Booz Allen Hamilton
 company: Booz Allen Hamilton
 position: Junior Consultant/Software Engineer on National Work Queue Team
